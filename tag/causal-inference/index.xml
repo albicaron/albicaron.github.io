@@ -5,12 +5,20 @@
     <link>https://albicaron.github.io/tag/causal-inference/</link>
       <atom:link href="https://albicaron.github.io/tag/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2020 12:37:52 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 12:03:42 +0100</lastBuildDate>
     <image>
       <url>https://albicaron.github.io/images/icon_hu6cfeeffad7947327dbd2ebf82ad7804f_6988_512x512_fill_lanczos_center_2.PNG</url>
       <title>Causal Inference</title>
       <link>https://albicaron.github.io/tag/causal-inference/</link>
     </image>
+    
+    <item>
+      <title>Sparse Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation</title>
+      <link>https://albicaron.github.io/publication/sparsebcf/</link>
+      <pubDate>Mon, 15 Feb 2021 12:03:42 +0100</pubDate>
+      <guid>https://albicaron.github.io/publication/sparsebcf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review</title>
