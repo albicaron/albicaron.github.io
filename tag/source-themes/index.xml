@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Alberto Caron</title>
+    <link>https://albicaron.github.io/tag/source-themes/</link>
+      <atom:link href="https://albicaron.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albicaron.github.io/media/icon_hu6a3fc04686780ddd5bf513419b801e7f_52646_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>https://albicaron.github.io/tag/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Counterfactual Learning with Multioutput Deep Kernels</title>
+      <link>https://albicaron.github.io/publication/counterdkl/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://albicaron.github.io/publication/counterdkl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Deep Causal Learning for Moderation Effects</title>
+      <link>https://albicaron.github.io/publication/icnn/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://albicaron.github.io/publication/icnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation</title>
+      <link>https://albicaron.github.io/publication/shbcf/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://albicaron.github.io/publication/shbcf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

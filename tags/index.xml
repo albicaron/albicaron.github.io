@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Alberto Caron</title>
+    <link>https://albicaron.github.io/tags/</link>
+      <atom:link href="https://albicaron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albicaron.github.io/media/icon_hu6a3fc04686780ddd5bf513419b801e7f_52646_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://albicaron.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

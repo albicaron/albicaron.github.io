@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal ML | Alberto Caron</title>
+    <link>https://albicaron.github.io/tag/causal-ml/</link>
+      <atom:link href="https://albicaron.github.io/tag/causal-ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal ML</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albicaron.github.io/media/icon_hu6a3fc04686780ddd5bf513419b801e7f_52646_512x512_fill_lanczos_center_3.png</url>
+      <title>Causal ML</title>
+      <link>https://albicaron.github.io/tag/causal-ml/</link>
+    </image>
+    
+    <item>
+      <title>Causal Machine Learning</title>
+      <link>https://albicaron.github.io/project/causalml/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://albicaron.github.io/project/causalml/</guid>
+      <description>&lt;p&gt;In the recent years, there has been a surging interest in the use of Statistical/Machine Learning tools for causal inference - and the other way around as well (&amp;ldquo;Causality for Machine Learning&amp;rdquo;). These tools leverage large datasets and usually deliver improved performance, provided that they are properly adjusted to be used in causal settings.&lt;/p&gt;
+&lt;p&gt;The broad idea of this project is to design and develop ML methods for estimating causal effects for highly personalized policy-making (e.g., heterogeneous treatment effects, spillover effets, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

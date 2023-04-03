@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Alberto Caron</title>
+    <link>https://albicaron.github.io/event/</link>
+      <atom:link href="https://albicaron.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://albicaron.github.io/media/icon_hu6a3fc04686780ddd5bf513419b801e7f_52646_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://albicaron.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Presentation &amp; Talks</title>
+      <link>https://albicaron.github.io/talk/presentation-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://albicaron.github.io/talk/presentation-talks/</guid>
+      <description>&lt;h2 id=&#34;an-updated-list-of-my-talks-can-be-found-in-the-cv-section-above-&#34;&gt;An updated list of my talks can be found in the CV section above ✌️.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
