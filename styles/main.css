@@ -185,25 +185,39 @@ a:hover {
 
 .theme-toggle {
   background-color: transparent;
-  border: none;
+  border: 1px solid transparent;
   color: var(--text-muted);
-  padding: 0.5rem;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  padding: 0.5rem 1rem;
+  border-radius: 99px; /* Pill shape */
   cursor: pointer;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 500;
   margin-left: var(--spacing-sm);
-  display: flex;
+  display: flex; /* Use flexbox */
   align-items: center;
   justify-content: center;
-  transition: background-color 0.2s, color 0.2s, transform 0.2s;
+  gap: 0.5rem; /* Space between icon and text */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: none;
 }
 
 .theme-toggle:hover {
-  background-color: var(--grid-color);
+  background-color: rgba(var(--accent-color-rgb), 0.1);
   color: var(--accent-color);
-  transform: rotate(15deg);
+  border-color: rgba(var(--accent-color-rgb), 0.2);
+  transform: translateY(-1px);
 }
+
+.theme-icon {
+    font-size: 1.1em; /* Slightly larger icon */
+    line-height: 1; /* Align icon better */
+}
+
+.theme-text {
+    /* No specific styling needed for text beyond parent */
+}
+
 
 /* Icon Visibility Logic */
 .theme-icon-sun, .theme-icon-moon {
