@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Beyond Training-Time Poisoning: Component-Level and Post-Training Backdoors in Deep Reinforcement Learning",
+    "authors": ["Vyas, S.", "Caron, A.", "Hicks, C.", "Burnap, P.", "Mavroudis, V."],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2507.04883"
+  },
+  {
+    "title": "On Efficient Bayesian Exploration in Model-Based Reinforcement Learning",
+    "authors": ["Caron, A.", "Hicks, C.", "Mavroudis, V."],
+    "venue": "Transaction on Machine Learning Research, JMLR",
+    "year": 2025,
+    "url": "https://openreview.net/forum?id=Na02hDWqkF"
+  },
+  {
+    "title": "Towards Causal Model-Based Policy Optimization",
+    "authors": ["Caron, A.", "Hicks, C.", "Mavroudis, V."],
+    "venue": "Multi-Disciplinary Conference on Reinforcement Learning and Decision-Making",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.09719"
+  },
+  {
+    "title": "Entity-Based Reinforcement Learning for Autonomous Cyber Defence",
+    "authors": ["Thompson, I. S.", "Caron, A.", "Hicks, C.", "Mavroudis, V."],
+    "venue": "Multi-Disciplinary Conference on Reinforcement Learning and Decision-Making",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3689933.3690835"
+  },
+  {
+    "title": "Structure Learning with Adaptive Random Neighborhood Informed MCMC",
+    "authors": ["Liang, X.", "Caron, A.", "Livingstone, S.", "Griffin, J."],
+    "venue": "NeurIPS",
+    "year": 2023,
+    "url": "https://openreview.net/forum?id=SCsJFNcSHQ"
+  },
+  {
+    "title": "Counterfactual Learning with Multioutput Deep Kernels",
+    "authors": ["Caron, A.", "Baio, G.", "Manolopoulou, I."],
+    "venue": "Transaction on Machine Learning Research, JMLR",
+    "year": 2022,
+    "url": "https://openreview.net/forum?id=iGREAJdULX"
+  },
+  {
+    "title": "Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation",
+    "authors": ["Caron, A.", "Baio, G.", "Manolopoulou, I."],
+    "venue": "Journal of Computational and Graphical Statistics",
+    "year": 2022,
+    "url": "https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2067549"
+  }
+]
