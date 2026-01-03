@@ -14,21 +14,17 @@ document.addEventListener('DOMContentLoaded', () => {
     
     if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
         body.setAttribute('data-theme', 'dark');
-        themeToggle.textContent = '☀️ Light Mode';
     } else {
         body.setAttribute('data-theme', 'light');
-        themeToggle.textContent = '🌙 Dark Mode';
     }
 
     themeToggle.addEventListener('click', () => {
         if (body.getAttribute('data-theme') === 'dark') {
             body.setAttribute('data-theme', 'light');
             localStorage.setItem('theme', 'light');
-            themeToggle.textContent = '🌙 Dark Mode';
         } else {
             body.setAttribute('data-theme', 'dark');
             localStorage.setItem('theme', 'dark');
-            themeToggle.textContent = '☀️ Light Mode';
         }
     });
 
